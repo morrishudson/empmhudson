@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table 1" max_length="40" name="x_snc_bad_ass_trai_table_1" type="collection">
+        <element label="Another Column" max_length="40" name="another_column" type="string"/>
+        <element label="Bad Ass Column" max_length="40" name="bad_ass_column" type="string"/>
+        <element label="Counting Stuff" max_length="40" name="counting_stuff" type="integer"/>
+    </element>
+</database>
