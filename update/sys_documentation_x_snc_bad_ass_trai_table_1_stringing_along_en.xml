@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="stringing_along" label="Stringing along" language="en" table="x_snc_bad_ass_trai_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>stringing_along</element>
+            <help/>
+            <hint/>
+            <label>Stringing along</label>
+            <language>en</language>
+            <name>x_snc_bad_ass_trai_table_1</name>
+            <plural>Stringing alongs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>morris.hudson@snc</sys_created_by>
+            <sys_created_on>2020-03-25 20:19:40</sys_created_on>
+            <sys_id>ad8e5859dbf38010b4efb6c96896198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stringing along</sys_name>
+            <sys_package display_value="Bad Ass Training" source="x_snc_bad_ass_trai">e9f83f45db738010b4efb6c96896198e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bad Ass Training">e9f83f45db738010b4efb6c96896198e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_bad_ass_trai_table_1_stringing_along_en</sys_update_name>
+            <sys_updated_by>morris.hudson@snc</sys_updated_by>
+            <sys_updated_on>2020-03-25 20:19:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

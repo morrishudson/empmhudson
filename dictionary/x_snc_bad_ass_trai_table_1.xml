@@ -3,5 +3,6 @@
         <element label="Another Column" max_length="40" name="another_column" type="string"/>
         <element label="Bad Ass Column" max_length="40" name="bad_ass_column" type="string"/>
         <element label="Counting Stuff" max_length="40" name="counting_stuff" type="integer"/>
+        <element label="Stringing along" max_length="45" name="stringing_along" type="string"/>
     </element>
 </database>
